@@ -29,7 +29,7 @@ public class Calculator {
     private char opt = ' '; // Save the operator
     private boolean go = true; // For calculate with Opt != (=)
     private boolean addWrite = true; // Connect numbers in display
-    private double val = 0; // Save the value typed for calculation;
+    private double val = 0; // Save the value typed for calculatinn
 
     /*
         Mx Calculator: 
