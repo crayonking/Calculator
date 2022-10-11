@@ -10,7 +10,7 @@ import java.awt.Color;
 import javax.swing.*;
 import java.lang.Math;
 import java.lang.System.Logger;
-//added
+//added something
 public class Calculator {
 
     private static final int WINDOW_WIDTH = 410;
