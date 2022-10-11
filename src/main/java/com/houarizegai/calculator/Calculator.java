@@ -9,7 +9,8 @@ import java.util.regex.Pattern;
 import java.awt.Color;
 import javax.swing.*;
 import java.lang.Math;
-
+import java.lang.System.Logger;
+//added
 public class Calculator {
 
     private static final int WINDOW_WIDTH = 410;
@@ -18,7 +19,9 @@ public class Calculator {
     private static final int BUTTON_HEIGHT = 70;
     private static final int MARGIN_X = 20;
     private static final int MARGIN_Y = 60;
-
+    
+   
+    
     private JFrame window; // Main window
     private JComboBox<String> comboCalcType, comboTheme;
     private JTextField inText; // Input
