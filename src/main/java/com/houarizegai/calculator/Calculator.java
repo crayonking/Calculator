@@ -9,7 +9,7 @@ import java.util.regex.Pattern;
 import java.awt.Color;
 import javax.swing.*;
 import java.lang.Math;
-
+// added something here
 public class Calculator {
 
     private static final int WINDOW_WIDTH = 410;
